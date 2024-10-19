@@ -1,2 +1,2 @@
-printf("DIET")
-printf("IT")
+print("DIET")
+print("IT")
